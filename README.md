@@ -3,6 +3,10 @@
 ## Description
     
 This project is a way to empower businesses and consumers to conveniently engage in online buying and selling of products. Giving the business the power to get all of their products, categories, and tags, in their database, and to be able to create, update, and delete specified items.
+
+## Screenshot
+
+![Full Application View]()
     
 ## Table of Contents
     
