@@ -6,7 +6,7 @@ This project is a way to empower businesses and consumers to conveniently engage
 
 ## Screenshot
 
-![Full Application View]()
+![Full Application View](assets/E-Commerce_BackendSS.PNG)
     
 ## Table of Contents
     
