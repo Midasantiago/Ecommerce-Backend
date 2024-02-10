@@ -118,7 +118,7 @@ router.delete('/:id', (req, res) => {
     where: {
       id: req.params.id
     }
-  })
+  }).then((deletedProduct) => res.json(deletedProduct));
 });
 
 module.exports = router;
